@@ -4,6 +4,7 @@ from PIL import Image, ImageDraw, ImageFont
 import matplotlib.pyplot as plt
 import io
 import pandas as pd
+import seaborn as sns
 def click_element(element):
     open_script = f"<script type = 'text/javascript'>window.parent.document.querySelector('[id^=tabs-bui][id$=-{element}]').click();</script>"
     html(open_script, width=0, height=0)
