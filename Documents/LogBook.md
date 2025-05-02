@@ -126,4 +126,4 @@
 1. IPCC Guidelines for National Greenhouse Gas Inventories  
 2. “Carbon Footprint Estimation Methods” – IEEE Access  
 3. Streamlit Documentation  
-4. Dataset Source: [UCI ML Repository](https://archive.ics.uci.edu)
+4. Dataset Source: Kaggle
