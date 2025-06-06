@@ -23,16 +23,16 @@
 
 | Week | Date Range       | Tasks Completed                                     | Next Steps                         |
 |------|------------------|-----------------------------------------------------|-------------------------------------|
-| 1    | 19/8/24 - 24/8/24| Introduction: Background, Motivation             | Finalize problem statement         |
-| 2    | 30/8/24 - 3/8/24| Introduction: Problem Statement, Objectives      | Literature survey planning         |
-| 3    | 10/10/24 - 15/10/24  | Literature Survey: Reviewed carbon tracking tools| Analyze model gaps                 |
-| 4    | 15/11/24 - 21/12/24 | Proposed System: Architecture, input-output flow | Finalize tech stack & libraries    |
-| 5    | 2/1/25 - 5/1/25| Requirements: Streamlit setup, dataset sourcing  | Design input forms & layout        |
-| 6    | 10/1/25 - 17/1/25| Methodology: Model training, feature selection   | Integrate trained model into UI    |
-| 7    | 19/1/25 - 22/1/25| Module 1: UI Design with Streamlit              | Add interactive charts & visual UI |
-| 8    | 1/2/25 - 15/2/25| Module 2: Prediction logic, model integration  | Work on emission breakdown visuals |
-| 9    | 1/3/25 - 10/3/25| Module 3: Carbon category summaries, testing   | Optimize & debug app               |
-| 10   | 3/4/25 - 25/4/25| Outcome: Final testing, report writing          | Deployment & documentation         |
+| 1    | 24/2/25 - 8/3/25| Introduction: Background, Motivation             | Finalize problem statement         |
+| 2    | 24/2/25 - 8/3/25| Introduction: Problem Statement, Objectives      | Literature survey planning         |
+| 3    | 10/3/25 - 22/3/25  | Literature Survey: Reviewed carbon tracking tools| Analyze model gaps                 |
+| 4    | 10/3/25 - 22/3/25 | Proposed System: Architecture, input-output flow | Finalize tech stack & libraries    |
+| 5    | 10/3/25 - 22/3/25| Requirements: Streamlit setup, dataset sourcing  | Design input forms & layout        |
+| 6    | 24/3/25 - 5/4/25| Methodology: Model training, feature selection   | Integrate trained model into UI    |
+| 7    | 7/4/25 - 26/4/25| Module 1: UI Design with Streamlit              | Add interactive charts & visual UI |
+| 8    | 7/4/25 - 26/4/25| Module 2: Prediction logic, model integration  | Work on emission breakdown visuals |
+| 9    | 7/4/25 - 26/4/25| Module 3: Carbon category summaries, testing   | Optimize & debug app               |
+| 10   | 28/4/25 - 3/5/25| Outcome: Final testing, report writing          | Deployment & documentation         |
 
 
 ---
