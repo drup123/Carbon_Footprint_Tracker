@@ -7,6 +7,7 @@ from sklearn.preprocessing import StandardScaler
 import pickle
 import io
 import matplotlib.pyplot as plt
+import seaborn as sns
 from PIL import Image, ImageDraw, ImageFont
 import base64
 from functions import *
@@ -171,3 +172,4 @@ with open("./style/footer.html", "r", encoding="utf-8") as footer:
     st.markdown(footer_html, unsafe_allow_html=True)
 
 script()
+
